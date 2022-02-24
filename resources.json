@@ -10,5 +10,11 @@
             "name": "Requests",
             "repo": "psf/requests"
         }
+    ],
+    "Java": [
+        {
+            "name": "Eclipse Jetty",
+            "repo": "eclipse/jetty.project"
+        }
     ]
 }
