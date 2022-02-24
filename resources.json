@@ -37,6 +37,10 @@
         {
             "name": "GRequests",
             "repo": "spyoungtech/grequests"
+        },
+        {
+            "name": "Uplink",
+            "repo": "prkumar/uplink"
         }
     ],
     "Java": [
