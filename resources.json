@@ -1,0 +1,14 @@
+{
+    "JavaScript": [
+        {
+            "name": "Axios",
+            "repo": "axios/axios"
+        }
+    ],
+    "Python": [
+        {
+            "name": "Requests",
+            "repo": "psf/requests"
+        }
+    ]
+}

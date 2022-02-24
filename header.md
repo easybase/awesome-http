@@ -8,6 +8,8 @@
   
 </div>
 
+[^Comment]:  Thank you awesome-scala for the template
+
 ## Programming Languages
 
 * [JavaScript](#javascript)
@@ -22,7 +24,3 @@
 * C++
 * Java
 * PHP
-
-### JavaScript
-Name | Description | GitHub Activity
----- | ----------- | ---------------
