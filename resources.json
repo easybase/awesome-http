@@ -3,18 +3,232 @@
         {
             "name": "Axios",
             "repo": "axios/axios"
+        },
+        {
+            "name": "node-fetch",
+            "repo": "node-fetch/node-fetch"
+        },
+        {
+            "name": "Got",
+            "repo": "sindresorhus/got"
+        },
+        {
+            "name": "superagent",
+            "repo": "visionmedia/superagent"
+        },
+        {
+            "name": "Needle",
+            "repo": "tomas/needle"
         }
     ],
     "Python": [
         {
             "name": "Requests",
             "repo": "psf/requests"
+        },
+        {
+            "name": "urllib3",
+            "repo": "urllib3/urllib3"
+        },
+        {
+            "name": "httplib2",
+            "repo": "httplib2/httplib2"
+        },
+        {
+            "name": "GRequests",
+            "repo": "spyoungtech/grequests"
         }
     ],
     "Java": [
         {
             "name": "Eclipse Jetty",
             "repo": "eclipse/jetty.project"
+        },
+        {
+            "name": "OkHttp",
+            "repo": "square/okhttp"
+        },
+        {
+            "name": "Heritrix",
+            "repo": "internetarchive/heritrix3"
+        },
+        {
+            "name": "Apache HttpClient",
+            "repo": "apache/httpcomponents-client"
+        },
+        {
+            "name": "Google HTTP Client Library",
+            "repo": "googleapis/google-http-java-client"
+        },
+        {
+            "name": "Http Request",
+            "repo": "kevinsawicki/http-request"
+        }
+    ],
+    "Rust": [
+        {
+            "name": "reqwest",
+            "repo": "seanmonstar/reqwest"
+        },
+        {
+            "name": "hyper",
+            "repo": "hyperium/hyper"
+        },
+        {
+            "name": "Isahc",
+            "repo": "sagebind/isahc"
+        },
+        {
+            "name": "Surf",
+            "repo": "http-rs/surf"
+        },
+        {
+            "name": "curl-rust",
+            "repo": "alexcrichton/curl-rust"
+        }
+    ],
+    "Swift": [
+        {
+            "name": "Alamofire",
+            "repo": "Alamofire/Alamofire"
+        },
+        {
+            "name": "SwiftHTTP",
+            "repo": "daltoniam/SwiftHTTP"
+        },
+        {
+            "name": "Net",
+            "repo": "nghialv/Net"
+        },
+        {
+            "name": "Moya",
+            "repo": "Moya/Moya"
+        },
+        {
+            "name": "Just",
+            "repo": "dduan/Just"
+        },
+        {
+            "name": "Kingfisher",
+            "repo": "onevcat/Kingfisher"
+        }
+    ],
+    "Haskell": [
+        {
+            "name": "Req",
+            "repo": "mrkkrp/req"
+        },
+        {
+            "name": "http-client",
+            "repo": "snoyberg/http-client"
+        },
+        {
+            "name": "servant-client",
+            "repo": "haskell-servant/servant"
+        },
+        {
+            "name": "http-streams",
+            "repo": "aesiniath/http-streams"
+        }
+    ],
+    "Go": [
+        {
+            "name": "Req",
+            "repo": "imroc/req"
+        },
+        {
+            "name": "Resty",
+            "repo": "go-resty/resty"
+        },
+        {
+            "name": "Sling",
+            "repo": "dghubble/sling"
+        },
+        {
+            "name": "requests",
+            "repo": "asmcos/requests"
+        }
+    ],
+    "C++": [
+        {
+            "name": "Apache Serf",
+            "repo": "apache/serf"
+        },
+        {
+            "name": "Curl for People",
+            "repo": "libcpr/cpr"
+        },
+        {
+            "name": "cpp-netlib",
+            "repo": "cpp-netlib/cpp-netlib"
+        },
+        {
+            "name": "Webcc",
+            "repo": "sprinfall/webcc"
+        },
+        {
+            "name": "Proxygen",
+            "repo": "facebook/proxygen"
+        },
+        {
+            "name": "cpp-httplib",
+            "repo": "yhirose/cpp-httplib"
+        },
+        {
+            "name": "NFHTTP",
+            "repo": "spotify/NFHTTP"
+        },
+        {
+            "name": "EasyHttp",
+            "repo": "sony/easyhttpcpp"
+        }
+    ],
+    "PHP": [
+        {
+            "name": "Guzzle",
+            "repo": "guzzle/guzzle"
+        },
+        {
+            "name": "HTTPlug",
+            "repo": "php-http/httplug"
+        },
+        {
+            "name": "HTTP Client",
+            "repo": "amphp/http-client"
+        },
+        {
+            "name": "SendGrid HTTP Client",
+            "repo": "sendgrid/php-http-client"
+        },
+        {
+            "name": "Buzz",
+            "repo": "kriswallsmith/Buzz"
+        }
+    ],
+    "Bash/Shell": [
+        {
+            "name": "HTTPie",
+            "repo": "httpie/httpie"
+        },
+        {
+            "name": "curl",
+            "repo": "curl/curl"
+        },
+        {
+            "name": "aria2",
+            "repo": "aria2/aria2"
+        },
+        {
+            "name": "HTTP Prompt",
+            "repo": "httpie/http-prompt"
+        },
+        {
+            "name": "Resty",
+            "repo": "micha/resty"
+        },
+        {
+            "name": "Ain",
+            "repo": "jonaslu/ain"
         }
     ]
 }

@@ -13,14 +13,12 @@
 ## Programming Languages
 
 * [JavaScript](#javascript)
-* Swift
-* Python
-* Rust
-* Haskell
-* PureScript
-* Go
-* Scala
-* Ruby
-* C++
-* Java
-* PHP
+* [Python](#python)
+* [Java](#java)
+* [Rust](#rust)
+* [Swift](#swift)
+* [Haskell](#haskell)
+* [Go](#go)
+* [C++](#c)
+* [PHP](#php)
+* [Bash/Shell](#bashshell)
