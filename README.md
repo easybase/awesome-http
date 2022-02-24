@@ -39,6 +39,7 @@ Name | Description | GitHub Activity
 [urllib3](https://github.com/urllib3/urllib3) | Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more. | ![GitHub stars](https://img.shields.io/github/stars/urllib3/urllib3) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/urllib3/urllib3)
 [httplib2](https://github.com/httplib2/httplib2) | Small, fast HTTP client library for Python. Features persistent connections, cache, and Google App … | ![GitHub stars](https://img.shields.io/github/stars/httplib2/httplib2) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/httplib2/httplib2)
 [GRequests](https://github.com/spyoungtech/grequests) | Requests + Gevent = <3 | ![GitHub stars](https://img.shields.io/github/stars/spyoungtech/grequests) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spyoungtech/grequests)
+[Uplink](https://github.com/prkumar/uplink) | A Declarative HTTP Client for Python | ![GitHub stars](https://img.shields.io/github/stars/prkumar/uplink) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/prkumar/uplink)
 
 ### Java
 Name | Description | GitHub Activity
