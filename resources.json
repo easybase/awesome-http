@@ -89,6 +89,10 @@
         {
             "name": "curl-rust",
             "repo": "alexcrichton/curl-rust"
+        },
+        {
+            "name": "Deboa",
+            "repo": "deboa-client/deboa"
         }
     ],
     "Swift": [
